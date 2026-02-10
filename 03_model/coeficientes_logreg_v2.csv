@@ -1,0 +1,86 @@
+feature,coef
+Nivel_3_Categorizacion_Falla Equipo SD-WAN,-1.1538788373639488
+Nivel_1_Categorizacion_Conectividad,-0.873555003947652
+Nivel_2_Categorizacion_Fortinet,-0.8580619517187668
+Nivel_3_Categorizacion_Aplicacion (Bloqueo),0.8125911653781204
+Nivel_3_Categorizacion_Switch Apagado,0.7317366662346453
+Prioridad_Baja,0.7042587753357905
+Impacto_4-Menor/Localizado,-0.6646302706213236
+Servicio_Sd-Wan,0.6310687548590886
+Nivel_3_Categorizacion_Falla enlaces,-0.6300674645390965
+Servicio_Cloud Server,-0.6184281982868913
+Nivel_3_Categorizacion_Falla Enlaces,0.6135621362958772
+Nivel_3_Categorizacion_Apertura Simple,-0.6056899148314501
+Nivel_3_Categorizacion_Problemas equipo,0.5771960572444931
+Nivel_3_Categorizacion_Alarma Alto consumo de CPU,-0.5193143344904496
+Fuente_Reportada_Chat,0.4681039284862602
+Impacto_2-Significativo/Amplio,0.4519728874705072
+Nivel_2_Categorizacion_Cyber Security On Premise,0.44037758543166095
+Nivel_1_Categorizacion_Voz y Colaboración,0.42234366279516095
+Servicio_Dedicado,-0.41087600746878766
+Nivel_3_Categorizacion_Falla de respaldo,-0.3879927925080578
+Nivel_2_Categorizacion_Respaldo,-0.3879927925080578
+Impacto_3-Moderado/Limitado,0.3843803410806912
+Nivel_2_Categorizacion_Comunicaciones de voz y colaboración avanzada,0.36304228850453485
+Prioridad_Media,-0.35272378346426714
+Nivel_2_Categorizacion_Networking,0.35065395558385287
+Servicio_Troncal Sip Fija,0.3431455443321555
+Servicio_Atp B2B,-0.3182550075840885
+Nivel_2_Categorizacion_Versa,-0.312322214292834
+Fuente_Reportada_Teléfono,-0.30584754968027056
+Nivel_2_Categorizacion_Hardware y Sistemas Operativos,0.2932768305255312
+Nivel_3_Categorizacion_Servicio intermitente / Degradado,0.2877348149476536
+es_fin_de_semana,-0.268624480650884
+Nivel_2_Categorizacion_Movilidad Básica,0.25894104957724234
+Nivel_1_Categorizacion_Movilidad,0.25894104957724234
+Servicio_Pbx,0.2494033672523278
+Tipo_Incidencia_Petición de serv. por el usuario,0.24867910618034295
+Servicio_Conectividad Internacional,0.24781228939256056
+Servicio_Troncal Sip Nube Móvil,0.23628766181190936
+Servicio_Comunicaciones Unificadas (Hcs - Unify),-0.22950662304764582
+Servicio_Conectividad Nacional,0.22877643050580754
+Nivel_3_Categorizacion_No hay servicio,0.22813946195698884
+Nivel_3_Categorizacion_No funciona la VPN,0.22770205356704382
+Tipo_Incidencia_Restauración de servicio a usuario,-0.21787907263837022
+Nivel_3_Categorizacion_Falla Enrutamiento,0.21267553196483954
+Nivel_3_Categorizacion_Servicio Intermitente,-0.2078164931037162
+Nivel_2_Categorizacion_DataCenter,0.20318408011428163
+Nivel_3_Categorizacion_Servidor (No hay conexión),0.20318408011428163
+Tipo_Incidencia_Infrastructure Event,-0.18983393539612348
+Nivel_2_Categorizacion_Conectividad Administrada,-0.18535121783529632
+Nivel_3_Categorizacion_Falla enlace Principal,-0.18535121783529632
+Fuente_Reportada_Whatsapp,-0.1827858909859521
+Prioridad_Alta,-0.17981203365195778
+Servicio_Toip,-0.17698628753233941
+Nivel_3_Categorizacion_No completa destino,0.17430745651034002
+Servicio_Cyber Security,-0.17185181207871927
+Nivel_3_Categorizacion_Alarma/monitoreo/gestion,-0.17185181207871927
+Nivel_2_Categorizacion_Cyber Security Cloud,-0.17185181207871927
+Nivel_1_Categorizacion_Seguridad,-0.17185181207871927
+Tipo_Incidencia_Restauración de infraestructura,0.1661620532040318
+Impacto_1-Extenso/Generalizado,-0.16459480662405102
+Prioridad_Crítica,-0.16459480662405102
+Nivel_3_Categorizacion_Sin servicio,-0.15650753933797237
+Nivel_1_Categorizacion_SD-WAN,0.14930972184873192
+Nivel_3_Categorizacion_Falla de Potencia,0.1429643271311082
+dia_semana,0.1332343332737337
+Servicio_Banda Ancha,-0.1329520135876471
+Fuente_Reportada_Entrada directa,0.1319223080978066
+Servicio_Iot - Conectividad Gestionada,0.1294900532443106
+Nivel_1_Categorizacion_Cloud y Datacenter,0.10846811808376541
+Nivel_1_Categorizacion_Cyber Security On Premise y Datacenter,0.10464404748400388
+Nivel_3_Categorizacion_Servicio caído,-0.0982805408155768
+Nivel_3_Categorizacion_No autentica,-0.09811676651635894
+Fuente_Reportada_Monitoreo Proactivo,-0.09706241364356258
+mes,-0.09114321795102823
+Fuente_Reportada_Correo electrónico,-0.07047417807883494
+Fuente_Reportada_Escalación externa,0.06327194706644891
+Nivel_2_Categorizacion_Comunicaciones de voz y colaboración estándar,0.059301374284054055
+Nivel_3_Categorizacion_Apertura Doble,-0.05679989101910207
+Nivel_1_Categorizacion_Cyber Security On Premise,0.05489739213151224
+Nivel_3_Categorizacion_Lentitud en el servicio,0.04710526056915533
+Nivel_1_Categorizacion_IoT y Analítica,-0.04606902493683637
+Nivel_2_Categorizacion_Movilidad Avanzada,-0.04606902493683637
+Nivel_3_Categorizacion_No entran llamadas,0.019896744227462005
+hora_creacion,0.015399673919622771
+anio,0.00020133745372929285

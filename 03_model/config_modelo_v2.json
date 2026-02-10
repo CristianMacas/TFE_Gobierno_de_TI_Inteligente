@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-01-30T17:15:17",
+  "target": "sla_incumplido",
+  "features_tempranas_base": [
+    "Impacto",
+    "Prioridad",
+    "Nivel_1_Categorizacion",
+    "Nivel_2_Categorizacion",
+    "Nivel_3_Categorizacion",
+    "Servicio",
+    "Tipo_Incidencia",
+    "Fuente_Reportada",
+    "anio",
+    "mes",
+    "dia_semana",
+    "hora_creacion",
+    "es_fin_de_semana"
+  ],
+  "features_usadas": [
+    "Impacto",
+    "Prioridad",
+    "Nivel_1_Categorizacion",
+    "Nivel_2_Categorizacion",
+    "Nivel_3_Categorizacion",
+    "Servicio",
+    "Tipo_Incidencia",
+    "Fuente_Reportada",
+    "anio",
+    "mes",
+    "dia_semana",
+    "hora_creacion",
+    "es_fin_de_semana"
+  ],
+  "numeric_cols": [
+    "anio",
+    "mes",
+    "dia_semana",
+    "hora_creacion",
+    "es_fin_de_semana"
+  ],
+  "categorical_cols": [
+    "Impacto",
+    "Prioridad",
+    "Nivel_1_Categorizacion",
+    "Nivel_2_Categorizacion",
+    "Nivel_3_Categorizacion",
+    "Servicio",
+    "Tipo_Incidencia",
+    "Fuente_Reportada"
+  ],
+  "model": "LogisticRegression",
+  "random_state": 42,
+  "test_size": 0.3,
+  "csv_sep": ";",
+  "csv_decimal": ",",
+  "csv_encoding": "utf-8"
+}
